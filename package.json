@@ -1,6 +1,6 @@
 {
   "name": "ms-to-timecode",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Convert milliseconds to timecode unit",
   "main": "index.js",
   "scripts": {
