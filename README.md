@@ -4,7 +4,7 @@ Milliseconds to Timecode
 [![Build Status](https://travis-ci.org/jenglamlow/ms-to-timecode.svg?branch=master)](https://travis-ci.org/jenglamlow/ms-to-timecode)
 [![Coverage Status](https://coveralls.io/repos/github/jenglamlow/ms-to-timecode/badge.svg?branch=master)](https://coveralls.io/github/jenglamlow/ms-to-timecode?branch=master)
 
-A small library to change millisecond to hh:mm:ss:ff time code
+A small library to convert millisecond to hh:mm:ss:ff time code
 
 ## Installation
 
